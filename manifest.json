@@ -1,0 +1,12 @@
+{
+	"id": "note-switcher",
+	"name": "Note Switcher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Switch between notes using hotkeys.",
+	"author": "Chris Goldhammer",
+	"authorUrl": "",
+	"main": "main.js",
+	"styles": ["styles.css"]
+  }
+  
